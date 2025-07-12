@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/f87a0b302a244bdfb6661875e4f8071b/artifacts
+end_time: 1752345704812
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: f87a0b302a244bdfb6661875e4f8071b
+run_name: melodic-trout-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752345704722
+status: 3
+tags: []
+user_id: niraj

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/f97dba8954544ff282d2fb19959748ae/artifacts
+end_time: 1752345705381
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: f97dba8954544ff282d2fb19959748ae
+run_name: dapper-jay-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752345705299
+status: 3
+tags: []
+user_id: niraj

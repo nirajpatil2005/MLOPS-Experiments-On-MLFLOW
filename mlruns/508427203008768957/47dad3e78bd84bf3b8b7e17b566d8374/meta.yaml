@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/47dad3e78bd84bf3b8b7e17b566d8374/artifacts
+end_time: 1752331577773
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 47dad3e78bd84bf3b8b7e17b566d8374
+run_name: crawling-pig-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331577667
+status: 3
+tags: []
+user_id: niraj

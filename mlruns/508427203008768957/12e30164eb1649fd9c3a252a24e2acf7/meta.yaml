@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/12e30164eb1649fd9c3a252a24e2acf7/artifacts
+end_time: 1752345704524
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 12e30164eb1649fd9c3a252a24e2acf7
+run_name: popular-shad-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752345704429
+status: 3
+tags: []
+user_id: niraj

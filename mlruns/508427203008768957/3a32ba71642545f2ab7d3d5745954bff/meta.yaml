@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/3a32ba71642545f2ab7d3d5745954bff/artifacts
+end_time: 1752331577924
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 3a32ba71642545f2ab7d3d5745954bff
+run_name: honorable-trout-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331577856
+status: 3
+tags: []
+user_id: niraj

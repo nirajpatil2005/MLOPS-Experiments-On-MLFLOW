@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/33989b6797dd4442a235da737f7d94c8/artifacts
+end_time: 1752331578782
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 33989b6797dd4442a235da737f7d94c8
+run_name: gaudy-dove-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331578722
+status: 3
+tags: []
+user_id: niraj

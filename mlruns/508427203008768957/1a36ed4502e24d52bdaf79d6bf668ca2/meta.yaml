@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/1a36ed4502e24d52bdaf79d6bf668ca2/artifacts
+end_time: 1752345704717
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 1a36ed4502e24d52bdaf79d6bf668ca2
+run_name: caring-ram-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752345704626
+status: 3
+tags: []
+user_id: niraj

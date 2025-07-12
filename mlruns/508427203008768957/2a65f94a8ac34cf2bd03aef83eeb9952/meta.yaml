@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/2a65f94a8ac34cf2bd03aef83eeb9952/artifacts
+end_time: 1752331582790
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 2a65f94a8ac34cf2bd03aef83eeb9952
+run_name: bustling-midge-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331570870
+status: 3
+tags: []
+user_id: niraj

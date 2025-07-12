@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/4f09c71fa679455ab67367a01ae7f033/artifacts
+end_time: 1752331236132
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 4f09c71fa679455ab67367a01ae7f033
+run_name: sedate-stork-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331236049
+status: 3
+tags: []
+user_id: niraj

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/93a8bc4f6f114a7ab92cb0101bea5127/artifacts
+end_time: 1752345704618
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 93a8bc4f6f114a7ab92cb0101bea5127
+run_name: bedecked-roo-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752345704530
+status: 3
+tags: []
+user_id: niraj

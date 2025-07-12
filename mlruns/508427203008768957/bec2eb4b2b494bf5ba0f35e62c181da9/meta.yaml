@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/bec2eb4b2b494bf5ba0f35e62c181da9/artifacts
+end_time: 1752331578150
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: bec2eb4b2b494bf5ba0f35e62c181da9
+run_name: omniscient-newt-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331578031
+status: 3
+tags: []
+user_id: niraj

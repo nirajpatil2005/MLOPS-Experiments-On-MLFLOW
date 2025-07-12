@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/640c83296145436ba6bae15697854e49/artifacts
+end_time: 1752331239863
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 640c83296145436ba6bae15697854e49
+run_name: intelligent-dove-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331229688
+status: 3
+tags: []
+user_id: niraj

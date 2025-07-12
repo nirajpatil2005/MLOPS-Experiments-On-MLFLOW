@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/58afbbc2d0dd41aea90bb14efb4f41c7/artifacts
+end_time: 1752331235640
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 58afbbc2d0dd41aea90bb14efb4f41c7
+run_name: angry-moose-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331235578
+status: 3
+tags: []
+user_id: niraj

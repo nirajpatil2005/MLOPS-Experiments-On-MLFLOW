@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/60248a1cd7204dc682285f24764e33cb/artifacts
+end_time: 1752331235704
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 60248a1cd7204dc682285f24764e33cb
+run_name: handsome-fish-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331235644
+status: 3
+tags: []
+user_id: niraj

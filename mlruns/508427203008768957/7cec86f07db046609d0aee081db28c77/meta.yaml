@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/7cec86f07db046609d0aee081db28c77/artifacts
+end_time: 1752331236209
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 7cec86f07db046609d0aee081db28c77
+run_name: handsome-auk-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331236138
+status: 3
+tags: []
+user_id: niraj

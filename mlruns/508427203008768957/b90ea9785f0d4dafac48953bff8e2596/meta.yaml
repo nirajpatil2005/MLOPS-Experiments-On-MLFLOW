@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/b90ea9785f0d4dafac48953bff8e2596/artifacts
+end_time: 1752345704422
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: b90ea9785f0d4dafac48953bff8e2596
+run_name: secretive-shrimp-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752345704329
+status: 3
+tags: []
+user_id: niraj

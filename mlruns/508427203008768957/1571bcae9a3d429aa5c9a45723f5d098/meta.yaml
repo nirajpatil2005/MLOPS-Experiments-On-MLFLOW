@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/1571bcae9a3d429aa5c9a45723f5d098/artifacts
+end_time: 1752331235886
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 1571bcae9a3d429aa5c9a45723f5d098
+run_name: capable-moth-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331235824
+status: 3
+tags: []
+user_id: niraj

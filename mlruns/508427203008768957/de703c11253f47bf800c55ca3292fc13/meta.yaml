@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/de703c11253f47bf800c55ca3292fc13/artifacts
+end_time: 1752345704324
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: de703c11253f47bf800c55ca3292fc13
+run_name: classy-lamb-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752345704227
+status: 3
+tags: []
+user_id: niraj

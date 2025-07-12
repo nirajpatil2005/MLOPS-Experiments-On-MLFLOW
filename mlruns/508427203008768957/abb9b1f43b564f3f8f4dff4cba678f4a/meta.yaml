@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/abb9b1f43b564f3f8f4dff4cba678f4a/artifacts
+end_time: 1752331578245
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: abb9b1f43b564f3f8f4dff4cba678f4a
+run_name: ambitious-fly-86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331578156
+status: 3
+tags: []
+user_id: niraj

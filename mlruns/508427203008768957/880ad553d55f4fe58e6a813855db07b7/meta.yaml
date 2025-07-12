@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/880ad553d55f4fe58e6a813855db07b7/artifacts
+end_time: 1752331235963
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 880ad553d55f4fe58e6a813855db07b7
+run_name: powerful-fawn-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331235892
+status: 3
+tags: []
+user_id: niraj

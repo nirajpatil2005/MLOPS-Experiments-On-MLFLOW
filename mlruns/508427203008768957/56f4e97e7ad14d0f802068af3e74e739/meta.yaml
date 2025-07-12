@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/56f4e97e7ad14d0f802068af3e74e739/artifacts
+end_time: 1752331236365
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 56f4e97e7ad14d0f802068af3e74e739
+run_name: rebellious-crane-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331236287
+status: 3
+tags: []
+user_id: niraj

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/17ff3586372344ed9e9966d132eb4880/artifacts
+end_time: 1752345719143
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 17ff3586372344ed9e9966d132eb4880
+run_name: luxuriant-hare-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752345695346
+status: 3
+tags: []
+user_id: niraj

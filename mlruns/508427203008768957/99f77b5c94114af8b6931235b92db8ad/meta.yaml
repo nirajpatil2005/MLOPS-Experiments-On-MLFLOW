@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/508427203008768957/99f77b5c94114af8b6931235b92db8ad/artifacts
+end_time: 1752331577851
+entry_point_name: ''
+experiment_id: '508427203008768957'
+lifecycle_stage: active
+run_id: 99f77b5c94114af8b6931235b92db8ad
+run_name: agreeable-frog-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752331577778
+status: 3
+tags: []
+user_id: niraj
