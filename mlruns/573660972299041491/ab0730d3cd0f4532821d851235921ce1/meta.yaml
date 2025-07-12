@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/MLOPS/MLOPS-Eeperiments-On-MLFLOW/mlruns/573660972299041491/ab0730d3cd0f4532821d851235921ce1/artifacts
+end_time: 1752319757940
+entry_point_name: ''
+experiment_id: '573660972299041491'
+lifecycle_stage: active
+run_id: ab0730d3cd0f4532821d851235921ce1
+run_name: languid-lark-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752319757416
+status: 3
+tags: []
+user_id: niraj
